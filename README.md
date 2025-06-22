@@ -1,4 +1,4 @@
-# Universal JARVIS
+#  shadow.AI
 
 **shadow.AI** is a powerful AI assistant designed to interact with users via voice commands, automate tasks, and provide intelligent support for daily operations. Built to be modular, extendable, and developer-friendly, it acts as a digital companion that can:
 
